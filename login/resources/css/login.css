@@ -1,0 +1,9 @@
+.login-pf body {
+    background: none;
+    background-image: url(../img/testlogo.png);
+    background-size: cover;
+    background-color: #fff;
+    min-height: 418px;
+    min-width: 760px;
+    height: 100%;
+}
